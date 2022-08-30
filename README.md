@@ -8,5 +8,5 @@
 <br>
 <div align="center">
   
-  <a href="https://davif91.github.io/Stage03.Projeto03" _blank> ▶️ Visualizar Página </a>
+  <a href="https://davif91.github.io/Stage03.Projeto03" targert="_blank"> ▶️ Visualizar Página </a>
 </div>
